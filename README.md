@@ -5,8 +5,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -36,8 +34,8 @@ O Move.it te ajuda a se concentrar utilizando a técnica Pomodoro e oferece desa
 ## 🤔 Como rodar
 
 - Faça um clone desse repositório;
-`npm run build`;
-`yarn start`;
+- `npm run build`;
+- `yarn start`;
 
 ## :memo: Licença
 
